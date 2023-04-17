@@ -1,0 +1,21 @@
+{
+  "name": "apple-juice",
+  "displayName": "apple-juice",
+  "description": "A spiritual successor to Sinequanone Apple theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Apple Juice",
+        "uiTheme": "vs",
+        "path": "./themes/Apple Juice-color-theme.json"
+      }
+    ]
+  }
+}
