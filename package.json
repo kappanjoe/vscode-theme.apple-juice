@@ -1,10 +1,21 @@
 {
   "name": "apple-juice",
-  "displayName": "apple-juice",
-  "description": "A spiritual successor to Sinequanone Apple theme",
+  "displayName": "Apple Juice",
+  "description": "A spiritual successor to a long-lost theme.",
+  "publisher": "kappanjoe",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
+  },
+  "icon": "icons/apple-juice-icon.png",
+  "author": {
+    "name": "kappanjoe",
+    "email": "6261485+kappanjoe@users.noreply.github.com",
+    "url": "https://github.com/kappanjoe"
+  },
+  "repository": {
+    "url": "https://github.com/kappanjoe/vscode-theme.apple-juice.git",
+    "type": "git"
   },
   "categories": [
     "Themes"
